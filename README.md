@@ -1,2 +1,2 @@
-# JDS-exam
-:computer: This is a repository for jabar digital service exam
+# Exam
+This is a repository for crowd of exam programming.
