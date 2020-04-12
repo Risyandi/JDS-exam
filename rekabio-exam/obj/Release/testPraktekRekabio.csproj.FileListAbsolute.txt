@@ -1,0 +1,6 @@
+D:\Project\testPraktekRekabio\bin\Release\testPraktekRekabio.exe.config
+D:\Project\testPraktekRekabio\bin\Release\testPraktekRekabio.exe
+D:\Project\testPraktekRekabio\bin\Release\testPraktekRekabio.pdb
+D:\Project\testPraktekRekabio\obj\Release\testPraktekRekabio.csprojAssemblyReference.cache
+D:\Project\testPraktekRekabio\obj\Release\testPraktekRekabio.exe
+D:\Project\testPraktekRekabio\obj\Release\testPraktekRekabio.pdb
